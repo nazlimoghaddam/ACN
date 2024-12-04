@@ -1,0 +1,14 @@
+/Users/mainashabani/ACN/SnakeGame/bin/Debug/net8.0/SnakeGame
+/Users/mainashabani/ACN/SnakeGame/bin/Debug/net8.0/SnakeGame.deps.json
+/Users/mainashabani/ACN/SnakeGame/bin/Debug/net8.0/SnakeGame.runtimeconfig.json
+/Users/mainashabani/ACN/SnakeGame/bin/Debug/net8.0/SnakeGame.dll
+/Users/mainashabani/ACN/SnakeGame/bin/Debug/net8.0/SnakeGame.pdb
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfoInputs.cache
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfo.cs
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/SnakeGame.dll
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/refint/SnakeGame.dll
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/SnakeGame.pdb
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/SnakeGame.genruntimeconfig.cache
+/Users/mainashabani/ACN/SnakeGame/obj/Debug/net8.0/ref/SnakeGame.dll
